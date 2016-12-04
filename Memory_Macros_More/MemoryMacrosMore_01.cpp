@@ -1,12 +1,10 @@
 // MemoryMacrosMore_01.cpp : main project file.
-#include "stdafx.h"
 #include<windows.h>
 #include "malloc.h"
 #include <cassert>
 #include<iostream>
 #include<vector>
 //Section 1
-using namespace System;
 
 
 struct Foo {
